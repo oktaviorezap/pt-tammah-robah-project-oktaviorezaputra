@@ -18,6 +18,7 @@ PT Tammah Robah Indonesia Sales Performance Dashboard consists of 2 main compone
 
 <br>
 <br>
+
 ![(Sales Dashboard) PT Tammah Robah Indonesia_001](https://github.com/user-attachments/assets/c5116d7c-08a1-4246-a53c-85866989bea3)
 
 <br>
