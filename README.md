@@ -13,7 +13,17 @@ Sales Dashboard : [PT. Tammah Robah Sales Dashboard](https://lookerstudio.google
 <br>
 PT Tammah Robah Indonesia Sales Performance Dashboard consists of 2 main components, namely Sales and Product Performance and Customer Performance along with additional KPIs to assess PT Tammah Robah Indonesia Sales Performance, namely **Average Order Value (AOV)**, **Average Selling Price (ASP)**, **Average Revenue per User (ARPU)**, and **Basket Size**.
 <br>
+2. Dashboard consists of 3 important components consisting of :
+   <br> - **Sales Performance** : contains a summary of the sales performance of PT Tammah Robah Indonesia for the period October 2023 to December 2023.
+   <br>
+   <br> - **Product Performance** : 
+          <br>Product Performance is used to view the Sales Performance of each Category and each Product during the October 2023 to December 2023. Through Product Performance we can see **Sales Revenue**, **Sales Quantity** and there are also additional KPIs such as **Average Order Value (AOV)**, **Basket Size**, **Average Sold Product (ASP)**, and **Average Revenue per User (ARPU)**.   
+   <br>
+   <br> - **Customer Performance** :
+          <br>contains the customer performance of PT Tammah Robah Indonesia during period October 2023 to December 2023. Through this Dashboard, we can also see the number of **New Customers**, customers who are still shopping during that period **(Existing Customer)** and **Customer Top Spender**. In addition, the Customer Performance Menu can also see the City and Province where the customer is located. So, we can reach out to customers when we want to make repeat purchases to improve sales performance in the next period.
+   <br>
 
+          
 ![image](https://github.com/user-attachments/assets/ff1dfc09-dae5-428b-a177-bf05a06e792a)
 
 <br>
