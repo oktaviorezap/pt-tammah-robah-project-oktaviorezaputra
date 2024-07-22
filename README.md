@@ -22,3 +22,10 @@ Sales Dashboard : [PT. Tammah Robah Sales Dashboard](https://lookerstudio.google
 
 # Full Python Code
 Python Code : [Full Code - Sales Dashboard PT Tammah Robah Indonesia](https://github.com/oktaviorezap/pt-tammah-robah-project-oktaviorezaputra/blob/main/(Full%20Code)%20Project_Tammah_Robah_Oktavio_Reza_Putra_Python.ipynb)
+<br>
+Through analysis with Python, several insights can be found, among others:
+1. RFM Analysis
+2. Determining Product Bundling using Apriori Algorithm
+3. Revenue of PT Tammah Robah Indonesia in each Province
+4. Proportion of Customers by Channel Type
+5. Revenue New Customer and Existing Customer 
