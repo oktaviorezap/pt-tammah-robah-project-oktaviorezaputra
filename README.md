@@ -1,8 +1,7 @@
 # Project : PT Tammah Robah Indonesia
 This project is to create a dashboard that displays the sales performance of PT Tammah Robah Indonesia from October 2023 to December 2023.
 <br>
-This project is to create a dashboard that displays the sales performance of PT Tammah Robah Indonesia from October 2023 to December 2023.
-This project is created using Python (Google Collaboratory) and then as the final stage the Sales Data will be stored in Google Big Query.
+This project is to create a dashboard that displays the sales performance of PT Tammah Robah Indonesia from October 2023 to December 2023 and created using Python (Google Collaboratory) and then as the final stage the Sales Data will be stored in Google Big Query.
 <br>
 This Sales Dashboard uses Datasets from SQL scripts created on Google Big Query
 # Dashboard
